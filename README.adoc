@@ -1,0 +1,11 @@
+= Java Lombok Project
+
+Lombok is basically *DTO* Data Transfer Objects. In programming word there is a name called *Boilerplate*, this used to
+describe code that is repeated in many parts of an application with little alteration. Such as *Getter, Setter ToString* etc.
+*Lombok* will automatically done those work according below annotation.
+
+
+Lombok Overview ::
+. *Topic* :  This is Java Lombok Project Tutorial
+. *YouTube*:
+. *Git Branch* : master

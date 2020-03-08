@@ -1,2 +1,0 @@
-# lombok
-Java Project LomBok
