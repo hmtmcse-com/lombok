@@ -1,7 +1,9 @@
 package com.hmtmcse.lombok;
 
 
+import lombok.Builder;
 
+@Builder
 public class StudentBuilder {
 
     public String name;
