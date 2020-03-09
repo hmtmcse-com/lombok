@@ -5,7 +5,21 @@ describe code that is repeated in many parts of an application with little alter
 *Lombok* will automatically done those work according below annotation.
 
 
+Enable Lombok at  IntelliJ IDEA::
+. *Topic* :  How to enable Java Lombok in IntelliJ IDEA?
+. *YouTube*: https://www.youtube.com/watch?v=RwX1x7_k1b0
+
 Lombok Overview ::
 . *Topic* :  This is Java Lombok Project Tutorial
 . *YouTube*:
 . *Git Branch* : master
+
+
+=== What is Java Lombok? How Lombok work?
+What is Lombok project for java and how it will help us to our project>
+
+. How to enable Java Lombok in IntelliJ IDEA: https://www.youtube.com/watch?v=RwX1x7_k1b0
+. Source: https://github.com/hmtmcse-com/lombok
+. Maven Search: https://mvnrepository.com/artifact/org.projectlombok/lombok
+. Intellij IDEA Plugin: https://projectlombok.org/setup/intellij
+. Other annotation: https://projectlombok.org/features/all
