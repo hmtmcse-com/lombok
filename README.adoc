@@ -11,7 +11,7 @@ Enable Lombok at  IntelliJ IDEA::
 
 Lombok Overview ::
 . *Topic* :  This is Java Lombok Project Tutorial
-. *YouTube*:
+. *YouTube*: https://www.youtube.com/watch?v=2UNev_-m11A
 . *Git Branch* : master
 
 
